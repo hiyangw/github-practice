@@ -30,7 +30,7 @@ GitHub Pages is currently disabled. Select a source below to enable GitHub Pages
 GitHub automatic page generator. 
 
 #### Example:
-https://www.github.com/pages/hiyangw/github-practice/
+https://hiyangw.github.io/github-practice/
 
 <a name="jekyll"/>
 

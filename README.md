@@ -8,7 +8,7 @@
 
 ## Documentation
 * [MarkDown](/docs/markdown.md) - A lightweight markup language with plain text formatting syntax.
-* [GitHub Pages](/docs/github-page.md) - [Example](https://www.github.com/pages/hiyangw/github-practice/)
+* [GitHub Pages](/docs/github-page.md) - [Example](https://hiyangw.github.io/github-practice/)
 * [Wiki](../../wiki)
 
 ## Practice
